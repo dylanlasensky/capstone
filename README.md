@@ -1,1 +1,1 @@
-# Capstone
+# capstone AI game project
